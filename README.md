@@ -9,7 +9,9 @@ Taller de investigación de algoritmos de regresión.
 
 ## 🔍 Objetivo de la investigación
 
-Cada equipo deberá investigar el algoritmo de regresión que se le ha asignado, explicando:
+En esta tarea cada equipo deberá investigar sobre el algoritmo de regresión asignado, explicando su funcionamiento básico, parámetros e hiperparámetros, así como el razonamiento matemático detrás del algoritmo; agregando piezas de código como parte esencial de la documentación.
+
+Cada equipo deberá explicar:
 
 - ¿Qué es?
 - Casos de uso/utilidad e importancia
