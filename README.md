@@ -18,13 +18,12 @@ Cada equipo deberá explicar:
 - Ejemplos de su uso en código
 - Conclusiones
 
-El resultado final debe ser un **documento en PDF** que recoja todo lo aprendido.  
+El resultado final debe ser un **notebook.ipynb** que recoja todo lo aprendido.  
 
 >
 > 👉 Recordar: la investigación es para aprender. Podéis usar IA, pero el objetivo es **entender realmente el algoritmo**, no solo copiar y pegar.
 >
 >
-> 👉Atención:  La investigación debe tener **mínimo 3 páginas**.
 >
 
 
@@ -40,9 +39,9 @@ El resultado final debe ser un **documento en PDF** que recoja todo lo aprendido
 ---
 
 Entregables y fechas:
-- PDF.
-- Presentación 15 min por equipo.
-- Entrega en 4 días.
+- notebook.
+- Presentación 8 min por equipo.
+- Entrega al siguiente día.
 
 
 ¡Manos a la obra, equipos de investigación!  
